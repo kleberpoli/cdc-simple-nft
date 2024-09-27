@@ -29,4 +29,4 @@ Este projeto implementa um **contrato de NFT (Non-Fungible Token)** simples usan
 - Interface gráfica para visualização e transferência de NFTs.
 
 ## Licença
-MIT License
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
